@@ -1,7 +1,7 @@
 
 # Scarlet Hacks
 
-# Project Name: A4R: Amenity for residents of Chicago
+# Project Name: A4RC: Amenity for residents of Chicago
 
 ### Problem Statement:
 ## Solving the gap of imbalance of public amenities in a City
