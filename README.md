@@ -1,22 +1,15 @@
 
-# WildHacks- 2024
+# Scarlet Hacks
 
-# Project Name: A4R: Amenity for residents
-### Track: Urban planning
+# Project Name: A4R: Amenity for residents of Chicago
 
 ### Problem Statement:
 ## Solving the gap of imbalance of public amenities in a City
 
-
-## Live: [amenityforresidents.us](amenityforresidents.us)
-
-
-## Architecture: [architecture.amenityforresidents.us](architecture.amenityforresidents.us)
-
 ## How to Run
 
 ```
-$ git clone https://github.com/haard7/chicago-urban-planning.git
+$ git clone https://github.com/ayushupadhyay1/Aminity4Residents-of-Chicago.git
 ```
 ```
 $ cd frontend
